@@ -1,4 +1,5 @@
-![hex_larg](https://github.com/pavDev33/pavDev33/assets/122934574/13127433-069b-4881-97ff-16e99d8fe998)
+
+![953shots_so](https://github.com/pavDev33/pavDev33/assets/122934574/26dd82bf-779a-4e61-8f38-eb8503b3beab)
 
 👋 Hi there! I'm Pablo L, a passionate developer with a strong focus on multiplatform development.
 

@@ -11,22 +11,6 @@
   - Frontend: React, Angular, Astro
   - Backend: Java, Node.js
 
-💻 **Languages and Technologies**:
-- Dart
-- Kotlin
-- JavaScript
-- TypeScript
-- HTML/CSS
-
-🔧 **Tools and Frameworks**:
-- Flutter
-- Kotlin Multiplatform
-- React
-- Angular
-- Astro
-- Node.js
-- Spring Boot
-
 🌟 **What I love**:
 - Building seamless user experiences across different platforms.
 - Creating scalable and efficient backend systems.

@@ -25,5 +25,3 @@
 
 Let's connect and build something amazing together!
 
-### ⚙️ &nbsp;GitHub Analytics
-

@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi there! I'm Pablo L 👋</h1>
 </div>
-![953shots_so](https://github.com/pavDev33/pavDev33/assets/122934574/26dd82bf-779a-4e61-8f38-eb8503b3beab)
+
+![953shots_so](https://github.com/pavDev33/pavDev33/assets/122934574/f7bedeb6-8b06-4e5c-b9c3-e402600d459c)
 
 ## About
 
